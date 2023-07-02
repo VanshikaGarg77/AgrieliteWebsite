@@ -1,6 +1,10 @@
-$('.owl-carousel').owlCarousel({
+export function my(){
+   $('.owl-carousel').owlCarousel({
     autoplay: true,
     center: true,
     loop: true,
     nav: true,
-  });
+  })
+}
+
+

@@ -20,7 +20,7 @@ function App() {
     <Cards/>
     <Newabout/>
     <Why/>
-    <Media/>
+    <Media/> 
     <Contact/>
     <Form/>
     <Footer/>

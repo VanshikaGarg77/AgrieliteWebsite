@@ -1,7 +1,8 @@
 import './mcss.css';
-import ScriptTag from 'react-script-tag';
+//import {my} from "./resource.js";
+//import ScriptTag from 'react-script-tag';
 const Media = () => {
-    <ScriptTag type="text/javascript" src="resource.js"/>
+    //<ScriptTag type="text/javascript" src="resource.js"/>
     return ( 
         <div>
             {/* <div class="banner_destacados_wrapper pt-4 mt-4">

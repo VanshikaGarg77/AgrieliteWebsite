@@ -158,7 +158,7 @@ const Cards = () => {
               <div id="img">
               <img src="maintenance.png" class="card-img-top" alt="..." />
               <div class="card-body"><br/>
-                <h5 class="card-title">High Maintenance cost</h5>
+                <h5 class="card-title">High Maintenance Cost</h5>
                 <p class="card-text">
                   
                 </p>
