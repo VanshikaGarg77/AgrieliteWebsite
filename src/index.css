@@ -70,6 +70,7 @@ img {
   /* display:inline; */
   width: 6.5vw;
   height:5vw;
+  margin:auto;
 }
 .nav-item{
   font-size:30px;
@@ -194,13 +195,14 @@ img {
   display:flex;
   flex-wrap:wrap;
   align-items: center;
+  margin: 0px 5vw;
 }
 .card-title{
   text-align: center;
 }
 #img
 {
-  width:310px;
+  width:280px;
   margin:2vw;
 }
 .h-draw
