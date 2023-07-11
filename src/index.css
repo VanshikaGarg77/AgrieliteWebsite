@@ -195,14 +195,13 @@ img {
   display:flex;
   flex-wrap:wrap;
   align-items: center;
-  margin: 0px 5vw;
 }
 .card-title{
   text-align: center;
 }
 #img
 {
-  width:280px;
+  width:310px;
   margin:2vw;
 }
 .h-draw
