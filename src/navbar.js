@@ -2,9 +2,11 @@ import React from "react";
 import './index.css'
 const Navbar = () => {
     return (
-        <div className="color">
+        <div className="color row">
+        <div className="col-md-4">
         <img src="logo.png" className="logo"></img>
-       
+        </div>
+       <div className="col-md-8">
         <nav className="navbar navbar-expand-lg  float-end">
         {/* bg-body-tertiary */}
         <div className="container-fluid">
@@ -39,7 +41,7 @@ const Navbar = () => {
           
     
       </nav>
-      
+      </div>
       </div>
       );
 }
