@@ -20,7 +20,7 @@ const  Newabout= () => {
       <img src="mision.jpg" class="xyz" alt="..."/>
       <div class="card-body">
         <h5 class="card-title2">MISSION</h5>
-        <p class="card-text2">Driving change for a better future<br/>
+        <p class="card-text2">Driving change for a better future
   To provide a sustainable and efficient alternative to  traditional fossil-fuel-powered tractors.
 Providing them a driving pleasure & comfortable drive.</p>
       </div>

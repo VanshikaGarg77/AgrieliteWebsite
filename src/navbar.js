@@ -5,7 +5,8 @@ const Navbar = () => {
         <div className="color">
         <img src="logo.png" className="logo"></img>
        
-        <nav className="navbar navbar-expand-lg bg-body-tertiary float-end">
+        <nav className="navbar navbar-expand-lg  float-end">
+        {/* bg-body-tertiary */}
         <div className="container-fluid">
           {/* <a className="navbar-brand" href="#">Navbar</a>*/}
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -24,7 +25,7 @@ const Navbar = () => {
               </li>
               {/* objective */}
               <li className="nav-item">
-                <a className="nav-link" href="#why"><span className="nav-link-span">WhyUs</span></a>
+                <a className="nav-link" href="#why"><span className="nav-link-span">Why Us</span></a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="#"><span className="nav-link-span">Media</span></a>

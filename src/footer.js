@@ -1,8 +1,7 @@
 const Footer = () => {
     return (  
         <div>
-        
-<footer class="text-center text-lg-start bg-light text-muted">
+    <footer class="text-center text-lg-start bg-light text-muted">
   
    <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
     
@@ -10,8 +9,7 @@ const Footer = () => {
       {/* <span>Get connected with us on social networks:</span> */}
       <span>More About Us:</span>
     </div>
-    
-    <div>
+   {/* <div>
       <a href="" class="me-4 text-reset">
         <i class="fab fa-facebook-f"></i>
       </a>
@@ -31,7 +29,7 @@ const Footer = () => {
         <i class="fab fa-github"></i>
       </a>
     </div>
-   
+   */}
   </section> 
   
   <section class="">
@@ -91,7 +89,7 @@ Providing them a driving pleasure & comfortable drive.
         <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
         
           <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
-          <p><i class="fas fa-home me-3"></i>KD Complex,Near  Maheshwari Chowk,100 Feet road,Bathinda
+          <p><i class="fas fa-home me-3"></i>KD Complex,Near  Maheshwari Chownk,100 Feet road,Bathinda.
                <br/> Corp. Office</p>
           <p>
             <i class="fas fa-envelope me-3"></i>
@@ -100,7 +98,6 @@ Providing them a driving pleasure & comfortable drive.
           <p><i class="fas fa-phone me-3"></i> +91 79734-96784</p>
           <p><i class="fas fa-print me-3"></i> +91 70099-96784</p>
         </div>
-      
       </div>
      
     </div>
@@ -108,12 +105,11 @@ Providing them a driving pleasure & comfortable drive.
   
   <div class="text-center p-4">
     © 2021 Copyright:
-    <a class="text-reset fw-bold" href="https://mdbootstrap.com/">Agri e-lite.com</a>
+    <a class="text-reset fw-bold" href="https://mdbootstrap.com/">Agrielite.com</a>
   </div>
  
 </footer>
-
-        </div>
+    </div>
     );
 }
  

@@ -1,7 +1,7 @@
 import react from "react";
 const Marque = () => {
     return ( 
-        <>
+        <div>
         <div className="marquee">
         <br></br>
             <marquee className="mar" scrollamount="20">
@@ -11,7 +11,7 @@ const Marque = () => {
         <img src="agri.png" className="agri"/>
         </div>
         </div>
-        </>
+        </div>
      );
 }
  

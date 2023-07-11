@@ -12,10 +12,9 @@ const About = () => {
         <div className="col-md-9">
         <h3>
         <h1 className="abc">VISION</h1>
-        
           Empowering Farmers with Clean Energy Solutions. <br/> Our vision for
-           electric tractors is to provide a sustainable and 
-            efficient solution for agricultural operations.
+          electric tractors is to provide a sustainable and 
+          efficient solution for agricultural operations.
           </h3>
           </div>
           </div>

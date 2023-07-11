@@ -13,22 +13,19 @@ const Why = () => {
 such as regenerative braking and Smart B.M.S.<br/>
 Our tractors are designed with farmers' needs in mind, with customizable  options and easy-to-use controls.
              </h4>
-           <div className="col-md-4">   
-           <div className="image">
+
+           <div className="image col-md-4">
             <img src="tractor.jpg" className="tractor"/>
-            </div>
           </div>
-          
-          <div className="col-md-4">
-        <div className="challenge">
+        
+        <div className="challenge col-md-4">
           <h1 className="the">The Challenges Of Conventional Tractors</h1>
           <p>
           Unsustainable, Inefficient, and Costly:<br/>
-          Conventional tractors emit harmful pollutants and contribute to climate  change<br/>
-            Diesel fuel is expensive and prone to price fluctuations <br/>
+          Conventional tractors emit harmful pollutants and contribute to climate  change.<br/>
+            Diesel fuel is expensive and prone to price fluctuations. <br/>
            Maintenance costs are high, and Dependency on Fossil Fuels.
           </p>
-          </div>
           </div>
           </div>
           </div>
