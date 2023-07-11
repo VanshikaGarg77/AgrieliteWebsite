@@ -67,11 +67,11 @@ img {
   height:50%;
 }
 .logo{
-  width: 6%;
-  height:6%;
+  width: 7%;
+  height:7%;
 }
 .nav-item{
-  font-size:30px;
+  font-size:40px;
   background-color: #487107;
   color:white;
   margin:auto;
@@ -196,15 +196,10 @@ img {
 .card-title{
   text-align: center;
 }
-.draw
-{
-  margin:65px;
-  width:200px;
-  height:200px;
-}
+
 #img
 {
-  margin:40px;
+  margin:2vw;
 }
 .h-draw
 {

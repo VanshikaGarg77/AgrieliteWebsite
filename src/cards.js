@@ -28,7 +28,7 @@ const Cards = () => {
     <img src="economic.png" class="card-img-top" alt="..."/>
     <div class="card-body">
       <h5 class="card-title">Economic Feasibility</h5>
-      <p class="card-text">Fever Moving parts leads to Low maintenance Low Running Cost.
+      <p class="card-text">Fever Moving parts leads to Low Running Cost.
                   <br />
                   Eco-Friendly.
                   <br />
