@@ -1,7 +1,7 @@
 import React from "react";
 import "./index.css";
 const Cards = () => {
-  return (
+  return (                                                                    
     <div id="benefits">
       <br></br>
       <br></br>
@@ -53,6 +53,7 @@ They are more efficient.
 </div>
  <h1 className="h-draw">Drawbacks Of Traditional Tractors</h1>
             <div className="drawbacks">
+        
             <div id="img">
               <img src="air.png" class="card-img-top" alt="..." />
               <div class="card-body">
@@ -71,8 +72,9 @@ They are more efficient.
                 <p class="card-text">
                   
                 </p>
+                </div>
               </div>
-              </div>
+           
               <div  id="img">
               <img src="noise.png" class="card-img-top" alt="..." />
               <div class="card-body"><br/>
@@ -82,7 +84,8 @@ They are more efficient.
                 </p>
               </div>
               </div>
-              <div id="img">
+             
+              <div id="img" >
               <img src="maintenance.png" class="card-img-top" alt="..." />
               <div class="card-body"><br/>
                 <h5 class="card-title">High Maintenance Cost</h5>
@@ -91,6 +94,7 @@ They are more efficient.
                 </p>
               </div>
               </div>
+            
         </div>
     </div>
   );

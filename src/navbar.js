@@ -3,10 +3,10 @@ import './index.css'
 const Navbar = () => {
     return (
         <div className="color row">
-        <div className="col-md-4">
+        <div className="col-md-3">
         <img src="logo.png" className="logo"></img>
         </div>
-       <div className="col-md-8">
+       <div className="col-md-9">
         <nav className="navbar navbar-expand-lg  float-end">
         {/* bg-body-tertiary */}
         <div className="container-fluid">
@@ -30,7 +30,7 @@ const Navbar = () => {
                 <a className="nav-link" href="#why"><span className="nav-link-span">Why Us</span></a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#"><span className="nav-link-span">Media</span></a>
+                <a className="nav-link" href="#media"><span className="nav-link-span">Media</span></a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="#contact"><span className="nav-link-span">Contact Us</span></a>

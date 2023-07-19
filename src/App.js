@@ -8,7 +8,7 @@ import Why from './Why';
 import './index.css';
 import Contact from './contact';
 import Footer from './footer';
-//import Media from './media.js';
+import Media from './media.js';
 import Form from './form.js';
 
 function App() {
@@ -19,7 +19,7 @@ function App() {
     <Cards/>
     <Newabout/>
     <Why/>
-    {/* <Media/>  */}
+    <Media/> 
     <Contact/>
     <Form/>
     <Footer/>

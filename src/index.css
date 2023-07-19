@@ -67,7 +67,6 @@ img {
   height:50%;
 }
 .logo{
-  /* display:inline; */
   width: 6.5vw;
   height:5vw;
   margin:auto;
@@ -192,8 +191,8 @@ img {
 }
 .drawbacks
 {
-  display:flex;
-  flex-wrap:wrap;
+   display:flex;
+  flex-wrap:wrap; 
   align-items: center;
 }
 .card-title{
@@ -251,4 +250,20 @@ img {
   height:100px;
   width:150px;
 }
+.media
+{
+  font-size: 70px;
+  color:#487107;
+  text-align: center;
+}
 
+.media2
+{
+  height: 30vw;
+  width:60vw;
+}
+.imgm
+{
+  height:25vw;
+  width:45vw;
+}
