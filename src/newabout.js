@@ -3,7 +3,6 @@ const  Newabout= () => {
         <div className="cards" id="cards">
 <h1 className="h-vision">VISION AND MISSION</h1>
         <div class="row">
-         {/* row-cols-1 row-cols-md-2 g-4"> */}
   <div class="col-md-6">
     <div class="card">
       <img src="vision.png" class="xyz" alt="..."/>

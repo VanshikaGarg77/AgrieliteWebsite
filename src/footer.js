@@ -82,7 +82,7 @@ Providing them a driving pleasure & comfortable drive.
             <a href="#why" class="text-reset">Why Us</a>
           </p>
           <p>
-            <a href="#media" class="text-reset">Media</a>
+            <a href="#contact" class="text-reset">Contact</a>
           </p>
         </div>
       
